@@ -27,7 +27,9 @@ REQUISITOS:
 DICAS:
 
   •	Uma abordagem é usar uma estrutura de dados auxiliar, como um conjunto (set), para rastrear os elementos já vistos.
+  
   •	Lembre-se de considerar os casos em que a lista está vazia ou contém apenas um elemento.
+  
   •	Tenha cuidado com a manipulação dos ponteiros ao remover um nó da lista.
 
 ENTREGA:
